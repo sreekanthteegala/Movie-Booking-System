@@ -23,7 +23,7 @@ A responsive and interactive Movie Booking System built for web users to explore
 - **Frontend:** HTML, CSS, JavaScript  
 - **Frameworks/Libraries:** React.js 
 - **Styling:** Tailwind 
-- **Backend (if any):** Node.js
+- **Backend :** Node.js
 - **Deployment:** Netlify
 
 ---
