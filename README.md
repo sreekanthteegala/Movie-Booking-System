@@ -21,9 +21,9 @@ A responsive and interactive Movie Booking System built for web users to explore
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Frameworks/Libraries:** React.js / Vanilla JS (specify which)
-- **Styling:** CSS / Tailwind / Bootstrap (mention what you used)
-- **Backend (if any):** Firebase / Node.js / JSON Server / None
+- **Frameworks/Libraries:** React.js 
+- **Styling:** Tailwind 
+- **Backend (if any):** Node.js
 - **Deployment:** Netlify
 
 ---
